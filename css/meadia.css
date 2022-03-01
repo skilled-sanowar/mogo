@@ -1,0 +1,358 @@
+@media(min-width: 1200px) and (max-width:1400px){
+    .navbar-brand h1 {
+        font-size: 40px;
+    }
+    .banner-text a {
+        font-size: 16px;
+        padding: 6px 17px;
+        margin-top: 3px;
+    }
+    .banner-text h1 {
+        padding-top: 0px;
+    }
+    .footer-left-form button {
+        right: 15%;
+    }
+    .footer-right-inner{
+        padding: 6px;
+    }
+    .footer-right-inner img{
+        width: 100%;
+    }
+}
+@media(min-width: 992px) and (max-width:1199px){
+   
+    .navbar-brand h1 {
+        font-size: 17px;
+    }
+    .banner-text h1 {
+        font-size: 110px;
+    }
+    .banner-text h2 {
+        font-size: 72px;
+        margin-top: 95px;
+    }
+    .banner-text a {
+       
+        font-size: 13px;
+    }
+    .banner-text h1 {
+        font-size: 74px;
+    }
+    .banner-text a {
+        font-size: 21px;
+        margin-bottom: 55px;
+    }
+    .navbar-brand h1 {
+        font-size: 40px;
+    }
+    .banner-text h1::after {
+        bottom: 129px;
+    }
+    .footer-left-form button {
+        right: -1%;
+    }
+    .footer-center-img img{
+        width: 125%;
+    }
+    .footer-right-inner{
+        padding: 6px;
+    }
+    .footer-right-inner img{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+@media(min-width: 768px) and (max-width:991px){
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 5px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+    display: none;
+    }
+    .navbar-brand h1 {
+        font-size: 17px;
+    }
+    .banner-text h1 {
+        font-size: 24px;
+    }
+    .banner-text a {
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    .banner-text h1::after{
+        display: none;
+    }
+    .offcanvas-body{
+        background-color: #f38181;
+    }
+    .nv-button{
+        background: none;
+        color: inherit;
+        border: none;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+        display: block;
+    }
+    .nv-button i{
+       font-size: 30px;
+       color: #fff;
+    }
+    .sticky-manu{
+        background-color: #f38181;
+    }
+    .banner-text h2 {
+        margin-top: 91px;
+        font-size: 72px;
+    }
+    .banner-text h1 {
+        font-size: 74px;
+    }
+    .banner-text a {
+        font-size: 21px;
+        margin-bottom: 55px;
+    }
+    .navbar-brand h1 {
+        font-size: 40px;
+    }
+    .service-bootom{
+        margin-top: 0;
+    }
+    .comment-content p {
+        font-size: 18px;
+    }
+    .footer-left-form input {
+        width: 315px;
+    }
+    .footer-left-form button {
+        right: 6%;
+    }
+
+
+
+
+
+}
+
+
+
+
+@media(min-width: 576px) and (max-width:767px){
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 5px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+    display: none;
+    }
+    .navbar-brand h1 {
+        font-size: 17px;
+    }
+    .banner-text h1 {
+        font-size: 24px;
+    }
+    .banner-text h2 {
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    .banner-text a {
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    .banner-text h1::after{
+        display: none;
+    }
+    .offcanvas-body{
+        background-color: #f38181;
+    }
+    .nv-button{
+        background: none;
+        color: inherit;
+        border: none;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+        display: block;
+    }
+    .nv-button i{
+        color: #fff;
+       font-size: 20px;
+    }
+    .sticky-manu{
+        background-color: #f38181;
+    }
+    .banner-text h2 {
+        margin-top: 80px;
+        font-size: 30px;
+    }
+    .banner-text h1 {
+        font-size: 35px;
+    }
+    .banner-text a {
+        margin-top: 11px;
+        font-size: 18px;
+    }
+    .navbar-brand h1 {
+        font-size: 29px;
+    }
+    .service-item{
+        margin-top: 0;
+    }
+    .cra{
+        margin-top: 54px;
+    }
+    .comment-content p {
+        padding: 0px 9px 0px 5px;
+    }
+    .footer-left-form input {
+        width: 370px;
+    
+    }
+    .footer-right-inner{
+        padding-right: 0;
+    }
+    .footer-right-inner{
+        padding: 12px;
+    }
+    .footer-right-inner img{
+        width: 100%;
+    }
+    .footer-center-header h2 {
+        padding-top: 25px;
+    }
+    
+    .footer-right-inner{
+        padding: 8px;
+    }
+    .footer-right-inner img{
+        width: 100%;
+    }
+    .copy-right p {
+        padding-left: 192px;
+    }
+}
+
+@media(min-width: 495px) and (max-width:575.99px){
+    .service-content p {
+        padding: 0 80px;
+    }
+    .footer-right-inner{
+        padding-right: 0;
+    }
+    .footer-right-inner{
+        padding: 12px;
+    }
+    .footer-right-inner img{
+        width: 100%;
+    }
+
+}
+
+@media(max-width:575.99px){
+    /* .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+        margin-top: 0;
+         margin-bottom: 0; 
+        font-weight: 500;
+        line-height: 1.2;
+    } */
+    .offcanvas-body{
+        background-color: #f38181;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 5px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+    display: none;
+    }
+    .navbar-brand h1 {
+        font-size: 17px;
+    }
+    .banner-text h1 {
+        font-size: 24px;
+    }
+    .banner-text h2 {
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    .banner-text a {
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    .banner-text h1::after{
+        display: none;
+    }
+   
+    #about {
+        padding: 60px 0px 60px 0px;
+    }
+    .about-text h2 {
+        font-size: 20px;
+    }
+    .about-text h1 {
+        font-size: 24px; 
+    }
+    .about-text p {
+        font-size: 13px;
+        margin: 29px 0px 0px 0px;
+        padding: 0px 0px;
+    }
+    #service {
+        padding: 60px 0px;
+    }
+    .about-text h1 {
+        padding: 12px 0 32px 0px;
+    }
+   .service-item{
+       margin-bottom: 25px;
+   }
+    
+     .comment-content p {
+        font-size: 20px;
+        padding: 0px 0 0px 5px;
+    }
+    .service-bootom{
+        margin-top: 0;
+    } 
+    .footer-left-form input {
+        width: 296px;
+        margin-bottom: 20px;
+    }
+    .footer-left-form button {
+        position: static;
+        
+    }
+    .nv-button{
+        background: none;
+        color: inherit;
+        border: none;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+        display: block;
+    }
+    .nv-button i{
+        color: #fff;
+       font-size: 20px;
+    }
+    .sticky-manu{
+        background-color: #f38181;
+    }
+}
+
